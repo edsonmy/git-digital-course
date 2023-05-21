@@ -4,3 +4,5 @@
 
 
 # Gravando
+
+* comando git push
